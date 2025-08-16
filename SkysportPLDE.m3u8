@@ -6,4 +6,5 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
+http://tv.cloudcdn.me:80/live.ts?channelId=125660&uid=13232&deviceMac=00:1A:79:05:92:CC
 http://islacam.live:8080/live/7c%3A0a%3A3f%3Ada%3A7f%3A0a/a3fCQ2y/9e241b2f-d983-4023-9ae2-2f574eca9a04.ts
