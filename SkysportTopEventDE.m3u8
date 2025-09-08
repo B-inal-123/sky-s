@@ -6,5 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://tv.cloudcdn.me:80/live.ts?channelId=125631&uid=13232&deviceMac=00:1A:79:05:92:CC
-http://nxtplay.xyz:8080/play/live.php?mac=00:1A:79:C0:C9:D7&stream=310552&extension=ts
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:37:47:85&stream=257391&extension=ts&play_token=056vEjgDQM
